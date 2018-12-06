@@ -338,6 +338,9 @@ org\springframework\boot\spring-boot-autoconfigure\2.0.1.RELEASE\spring-boot-aut
     以使用模板引擎（freemarker.thymeleaf）;
 
   - application.properties:Spring Boot的默认配置，例如 server.port=9000 
+  
+  
+  @RestController:  @Controller . @ResponseBody
 
 # 二、配置文件 
 
